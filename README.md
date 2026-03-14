@@ -33,7 +33,6 @@ Ouvrir dans un navigateur :
 ```
 http://localhost:3000
 ```
-```
 
 ![](./public/img8.png)
 
